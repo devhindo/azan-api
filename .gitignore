@@ -1,2 +1,3 @@
 venv
 doc/resources.md
+src/__pycache__
